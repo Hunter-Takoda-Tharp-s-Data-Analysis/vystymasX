@@ -24,3 +24,5 @@ fun analyze(data: List<String>): String {
     val output = data.joinToString(separator = " | ") { it.reversed() }
     return "analysis complete -> $output"
 }
+
+// vystymas
